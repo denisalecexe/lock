@@ -1,9 +1,10 @@
 body {
-
+  background-color: #e1e9e5;
 }
 
 #center {
-
+  display: grid;
+  place-items: center;
 }
 
 .lock {
